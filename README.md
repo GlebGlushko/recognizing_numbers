@@ -9,3 +9,4 @@ eng
 There are 3 original files for project in the folder "codes"
 Dowland archieve "interface.rar", unzip it and run "interface.exe" for using programm. There are examples of pictures in archieve "50x50.rar", which are able to check programm. Also you can use any picture with ".JPG" format
 ===========================================================
+ 
